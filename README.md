@@ -37,15 +37,17 @@ Install Webcam for Windows, Mac or Linux, download Iriun Webcam app to your mobi
 ### Prerequisites
 
 ### Step 1: Clone the Repository:
+Run this Command in a Terminal / Command Prompt:
    ```bash
    git clone https://github.com/NovaTheFurryDev/HandCameraDriver.git
    cd HandCameraDriver
    ```
 ### Step 2. Install Python Dependencies:
+Run this Command in a Terminal / Command Prompt:
 ```bash
 pip install opencv-python mediapipe tensorflow
 ```
-### Step 3. Compile the SteamVR Driver:
+### Step 3. Compile the SteamVR Driver (Optional):
 Follow the instructions in the [src/driver/README.md](https://github.com/NovaTheFurryDev/HandCameraDriver/src/driver/README.md) to build the custom SteamVR driver.
 
 ### Step 4. Set Up Configuration:
