@@ -1,0 +1,12 @@
+{
+   "driver_hand_camera_tracking": {
+      "enable": true,
+      "model_number": "WebcamHandTrackingModel 1"
+   },
+   "driver_hand_camera_tracking_left_hand": {
+      "serial_number": "WebcamLeftHandABC123"
+   },
+   "driver_hand_camera_tracking_right_hand": {
+      "serial_number": "WebcamRightHandXYZ789"
+   }
+}

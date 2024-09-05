@@ -1,0 +1,11 @@
+{
+  "name": "HandTrackCamVR",
+  "version": "1.0",
+  "interfaces": {
+    "IVRDriverContext": "IVRDriverVersion_001",
+    "IServerTrackedDeviceProvider": "IVRDriverVersion_001"
+  },
+  "resources": {
+    "resourcePath": "HandTrackCamVR/resources"
+  }
+}
