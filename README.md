@@ -49,7 +49,7 @@ Run this Command in a Terminal / Command Prompt:
 pip install opencv-python mediapipe tensorflow
 ```
 ### Step 3. Compile the SteamVR Driver (Optional):
-Follow the instructions in the [src/driver/README.md](https://github.com/NovaTheFurryDev/HandCameraDriver/src/driver/README.md) to build the custom SteamVR driver.
+Follow the instructions in the [src/driver/README.md)](https://github.com/NovaTheFurryDev/HandCameraDriver/blob/main/SteamVR%20Driver/src/README.md) to build the custom SteamVR driver.
 
 ### Step 4. Set Up Configuration:
  Edit config.json to match your camera settings and network configuration.  
